@@ -23,4 +23,8 @@ case 4:
         break;
 default:
         Write("Неправильный номер четверти");
+<<<<<<< HEAD
+=======
+        break;
+>>>>>>> be482dd (commit)
 }
