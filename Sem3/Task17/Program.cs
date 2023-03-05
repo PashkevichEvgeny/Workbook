@@ -6,15 +6,9 @@ using static System.Console;
 Clear();
 
 Write("Введите точку на прямой x: ");
-<<<<<<< HEAD
-int x = int.Parse(ReadLine());
-Write("Введите точку на прямой y: ");
-int y = int.Parse(ReadLine());
-=======
 int x = int.Parse(ReadLine()!);
 Write("Введите точку на прямой y: ");
 int y = int.Parse(ReadLine()!);
->>>>>>> be482dd (commit)
 
 if (x > 0 && y > 0){
     Write("1");

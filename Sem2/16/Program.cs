@@ -7,15 +7,9 @@
 
 Console.Clear();
 Console.Write("Введите первое число: ");
-<<<<<<< HEAD
-int numberA = int.Parse(Console.ReadLine());
-Console.Write("Введите второе число: ");
-int numberB = int.Parse(Console.ReadLine());
-=======
 int numberA = int.Parse(Console.ReadLine()!);
 Console.Write("Введите второе число: ");
 int numberB = int.Parse(Console.ReadLine()!);
->>>>>>> be482dd (commit)
 
 if (numberA * numberA == numberB)
 {
